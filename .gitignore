@@ -1,0 +1,3 @@
+translate_py/clver_bn/*.json
+.history
+bn_weights.02.ckpt.data-00000-of-00001
